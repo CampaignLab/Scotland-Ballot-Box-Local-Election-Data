@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-CHALLENGE: Scrape Scotland 'Ballot Box' Local Election Data
+# CHALLENGE: Scrape Scotland 'Ballot Box' Local Election Data
 
-CODE REVISION: Ejimofor Nwoye, Campaign Lab, Newspeak House, London, England, 11th November 2024
+# CODE REVISION: Ejimofor Nwoye, Campaign Lab, Newspeak House, London, England, 11th November 2024
 
 import requests
 import pdfplumber
