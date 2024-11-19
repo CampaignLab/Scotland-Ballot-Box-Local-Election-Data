@@ -19,4 +19,4 @@ Extract Text: We use pdfplumber to extract the text from each page in the PDF.
 Parse Ballot Data: The parse_ballot_data function identifies each ballot box and associated data using regular expressions. It then captures each candidate's name and vote count.
 Save as JSON: The extracted data is saved into a JSON file for easy access and further analysis.
 
-To make the application code executable, on UNIX/LINUX (including MacOS) systems software platforms from CLI, <enter>$ chmod u+x scottishLE_example.py
+To make the application code executable, on UNIX/LINUX (including MacOS) systems software platforms from CLI, <enter> $ chmod u+x scottishLE_example.py
