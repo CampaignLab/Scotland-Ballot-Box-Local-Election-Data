@@ -10,6 +10,9 @@ import requests
 import pdfplumber
 import re
 import json
+import os
+
+os.system("clear")
 
 # URL of the PDF file
 url = "https://www.midlothian.gov.uk/downloads/file/4582/ward_3_dalkeith_preferences_by_ballot_box_report"
