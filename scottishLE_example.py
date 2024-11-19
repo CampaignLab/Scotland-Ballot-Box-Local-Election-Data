@@ -4,8 +4,6 @@
 
 # CODE REVISION: Ejimofor Nwoye, Campaign Lab, Newspeak House, London, England, 11th November 2024
 
-system ("clear")
-
 import requests
 import pdfplumber
 import re
